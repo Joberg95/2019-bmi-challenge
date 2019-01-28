@@ -23,7 +23,7 @@ button{
   }
   button:hover{
     background:#fff;
-    color:#1AAB8A;
+    color: #492FCD;
   }
   button:before,button:after{
     content:'';
