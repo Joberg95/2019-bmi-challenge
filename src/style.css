@@ -9,7 +9,7 @@ h1 {
 }
 
 button{
-    background:#1AAB8A;
+    background: #492FCD;
     color:#fff;
     border:none;
     position:relative;
@@ -32,7 +32,7 @@ button{
     right:0;
     height:2px;
     width:0;
-    background: #1AAB8A;
+    background: rgb(19, 27, 141);
     transition:400ms ease all;
   }
   button:after{
