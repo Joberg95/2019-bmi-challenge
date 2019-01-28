@@ -20,7 +20,7 @@
        
 
                document.addEventListener('DOMContentLoaded', () => {
-                   global.calculateForm.addEventListener('submit', event => {
+                   global.calculateForm.addEventLitsener('submit', event => {
                        event.preventDefault();
                        calculateBMI()
                            .then(person => {
